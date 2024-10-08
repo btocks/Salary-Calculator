@@ -8,8 +8,18 @@ I wanted to create a tool to help me determine if a job was even worth applying 
 
 This Python code is the result of said tool. 
 
-When running the program, the following window will appear.
+When running the program, the following window will appear:
+
+
+
+
+
 ![Hourly Calculator Screenshot](https://github.com/btocks/Salary-Calculator/blob/main/HourlyCalc.png?raw=true)
 
+
+
+
+
 You can enter either the annual salary, click "Calculate Hourly Pay" and it will output the hourly pay at the bottom of the window.
+
 You can also enter the hourly pay, click "Calculate Annual Salary" and it will output the annual salary at the bottom of the window. 
