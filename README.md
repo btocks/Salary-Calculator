@@ -1,4 +1,4 @@
-# Salary-Calculator
+# Python Salary Calculator
 
 As I was doinbg some job searching awhile back, I noticed some inconsistencies in job postings regarding pay.
 
